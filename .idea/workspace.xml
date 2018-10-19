@@ -1,0 +1,1027 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="992d8371-b1cf-48ed-a209-fcc7a4f94b15" name="Default" comment="" />
+    <ignored path="DashOTRS.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="DashOTRS" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Impressora</find>
+      <find>rptREPORTImpressoras</find>
+      <find>Impressoras</find>
+      <find>IMPRESSORAS</find>
+      <find>$date</find>
+      <find>first_queue_name</find>
+      <find>rptKPIINS07</find>
+      <find>funarte</find>
+      <find>Funarte</find>
+      <find>rptKPI0203</find>
+      <find>rptKPI0203P2</find>
+      <find>$qtdChamINS0405</find>
+      <find>$qtdChamINS0405P2</find>
+      <find>KpiAncine</find>
+      <find>BETWEEN</find>
+      <find>queue_name_first_owner</find>
+      <find>AnatelGDados2Excel</find>
+      <find>solicitante</find>
+      <find>rptREPORTFiscalizacao</find>
+      <find>rptKPIINSGeral</find>
+      <find>Total N2</find>
+      <find>N2 SLA 12 HORAS</find>
+      <find>12 Horas</find>
+      <find>117</find>
+      <find>PQS N1</find>
+      <find>incra</find>
+      <find>Rela</find>
+      <find>dbANCINE</find>
+      <find>ancine</find>
+      <find>Ancine</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>=IF(B4,B4/B5,0)</replace>
+      <replace>=COUNTIFS</replace>
+      <replace>$i,</replace>
+      <replace>COUNTIFS</replace>
+      <replace>\&quot;,</replace>
+      <replace>&quot;A$i:X$i&quot;</replace>
+      <replace>Z9:Z$i</replace>
+      <replace>Biblioteca</replace>
+      <replace>AnatelBiblioteca2Excel</replace>
+      <replace>AnatelGDados2Excel</replace>
+      <replace>Gestão de Dados</replace>
+      <replace>AnatelImpressoras2Excel</replace>
+      <replace>Impressoras</replace>
+      <replace>AnatelRedes2Excel</replace>
+      <replace>$xls-&gt;getActiveSheet()-&gt;getColumnDimension('A')-&gt;setWidth(50);</replace>
+      <replace>('A8:AB8')</replace>
+      <replace>Total de PQS Enviadas e Não Respondidas</replace>
+      <replace>Funarte</replace>
+      <replace>rptKPIINS02</replace>
+      <replace>KpiAncine</replace>
+      <replace>ANCINE</replace>
+      <replace>Ancine</replace>
+      <replace>INS04/05</replace>
+      <replace>2.0</replace>
+      <replace>4.0</replace>
+      <replace>AncineExcel</replace>
+      <replace>Infraestrutura</replace>
+      <replace>INFRA</replace>
+      <replace>AnatelFiscalizacaoExcel</replace>
+      <replace>dbTERRACAP</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\xampp\htdocs\DashOTRS</dir>
+      <dir>C:\xampp\htdocs\DashOTRS\fontes\protected\components</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/fontes/protected/views/report/fraport.php" />
+        <option value="$PROJECT_DIR$/fontes/protected/vendor/phpexcel/PHPExcel/Cell.php" />
+        <option value="$PROJECT_DIR$/fontes/protected/controllers/DashboardController.php" />
+        <option value="$PROJECT_DIR$/fontes/protected/models/DashboardFraport.php" />
+        <option value="$PROJECT_DIR$/fontes/protected/views/dashboard/fraport/_index.php" />
+        <option value="$PROJECT_DIR$/fontes/protected/views/dashboard/fraport/index.php" />
+        <option value="$PROJECT_DIR$/fontes/protected/views/kpi/fraport.php" />
+        <option value="$PROJECT_DIR$/fontes/protected/views/kpi/construction.php" />
+        <option value="$PROJECT_DIR$/fontes/protected/views/kpi/_fraport.php" />
+        <option value="$PROJECT_DIR$/fontes/protected/components/AnatelRedesExcel.php" />
+        <option value="$PROJECT_DIR$/fontes/protected/components/AnatelN3Excel.php" />
+        <option value="$PROJECT_DIR$/fontes/protected/components/AnatelSustentacaoExcel.php" />
+        <option value="$PROJECT_DIR$/fontes/protected/components/AnatelGDadosExcel.php" />
+        <option value="$PROJECT_DIR$/fontes/protected/components/AnatelImpressorasExcel.php" />
+        <option value="$PROJECT_DIR$/fontes/protected/models/KpiFraport.php" />
+        <option value="$PROJECT_DIR$/fontes/protected/components/AnatelImpressoras2Excel.php" />
+        <option value="$PROJECT_DIR$/fontes/protected/components/AnatelGDados2Excel.php" />
+        <option value="$PROJECT_DIR$/fontes/protected/components/AnatelBiblioteca2Excel.php" />
+        <option value="$PROJECT_DIR$/fontes/protected/components/AnatelRedes2Excel.php" />
+        <option value="$PROJECT_DIR$/fontes/protected/models/KpiIncra.php" />
+        <option value="$PROJECT_DIR$/fontes/protected/components/CvmExcel.php" />
+        <option value="$PROJECT_DIR$/fontes/assets/12950912/css/main.css" />
+        <option value="$PROJECT_DIR$/fontes/themes/flatlab/css/style.css" />
+        <option value="$PROJECT_DIR$/fontes/protected/components/FraportExcel.php" />
+        <option value="$PROJECT_DIR$/fontes/protected/components/FunarteExcelOld.php" />
+        <option value="$PROJECT_DIR$/fontes/protected/components/FunarteExcelOld1.php" />
+        <option value="$PROJECT_DIR$/fontes/protected/models/KpiFunarteOld.php" />
+        <option value="$PROJECT_DIR$/fontes/protected/views/kpi/funarte.php" />
+        <option value="$PROJECT_DIR$/fontes/protected/views/kpi/_funarte.php" />
+        <option value="$PROJECT_DIR$/fontes/protected/views/report/funarte.php" />
+        <option value="$PROJECT_DIR$/fontes/protected/views/report/ancine.php" />
+        <option value="$PROJECT_DIR$/fontes/protected/components/AnatelBibliotecaExcel.php" />
+        <option value="$PROJECT_DIR$/fontes/protected/components/AnatelInfraestruturaExcel.php" />
+        <option value="$PROJECT_DIR$/fontes/protected/views/kpi/ancine.php" />
+        <option value="$PROJECT_DIR$/fontes/protected/controllers/KpiController.php" />
+        <option value="$PROJECT_DIR$/fontes/protected/views/kpi/_ancine.php" />
+        <option value="$PROJECT_DIR$/fontes/protected/components/FunarteExcel.php" />
+        <option value="$PROJECT_DIR$/fontes/protected/models/KpiAncine.php" />
+        <option value="$PROJECT_DIR$/fontes/protected/components/FksUtils.php" />
+        <option value="$PROJECT_DIR$/fontes/protected/components/AncineExcel.php" />
+        <option value="$PROJECT_DIR$/fontes/protected/models/KpiAnatel.php" />
+        <option value="$PROJECT_DIR$/fontes/protected/components/AnatelFiscalizacaoExcel.php" />
+        <option value="$PROJECT_DIR$/fontes/protected/models/KpiFunarte.php" />
+        <option value="$PROJECT_DIR$/fontes/protected/components/AnatelExcel.php" />
+        <option value="$PROJECT_DIR$/fontes/protected/components/UserIdentity.php" />
+        <option value="$PROJECT_DIR$/fontes/protected/views/site/index-flatlab.php" />
+        <option value="$PROJECT_DIR$/fontes/protected/views/layouts/header-flatlab.php" />
+        <option value="$PROJECT_DIR$/fontes/protected/views/report/terracap.php" />
+        <option value="$PROJECT_DIR$/fontes/protected/controllers/ReportController.php" />
+        <option value="$PROJECT_DIR$/fontes/protected/models/KpiTerracap.php" />
+        <option value="$PROJECT_DIR$/fontes/protected/config/main.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1358" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="terracap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="terracap" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="terracap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="terracap" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="fontes" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.splitter.proportion" value="0.24485798" />
+    <property name="SearchEverywhereHistoryKey" value="Application&#9;FILE&#9;file://C:/xampp/htdocs/DashOTRS/fontes/protected/runtime/application.log&#10;Applica&#9;null&#9;null&#10;applica&#9;null&#9;null" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\terracap\fontes\protected\models" />
+      <recent name="C:\xampp\htdocs\terracap\fontes\protected\views\report" />
+      <recent name="C:\xampp\htdocs\DashOTRS\fontes\protected\components" />
+      <recent name="C:\xampp\htdocs\DashOTRS\fontes\protected\views\report" />
+      <recent name="C:\xampp\htdocs\DashOTRS\fontes\protected\models" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\jorgito.paiva\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="992d8371-b1cf-48ed-a209-fcc7a4f94b15" name="Default" comment="" />
+      <created>1475172622867</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1475172622867</updated>
+      <workItem from="1475172624539" duration="115000" />
+      <workItem from="1476361295239" duration="22503000" />
+      <workItem from="1476445648062" duration="18351000" />
+      <workItem from="1476706460928" duration="17668000" />
+      <workItem from="1476734138093" duration="32000" />
+      <workItem from="1476806282813" duration="7433000" />
+      <workItem from="1476877568035" duration="6684000" />
+      <workItem from="1476897023249" duration="1892000" />
+      <workItem from="1476969642689" duration="2219000" />
+      <workItem from="1477311116838" duration="9989000" />
+      <workItem from="1477394525064" duration="5281000" />
+      <workItem from="1477482208140" duration="18743000" />
+      <workItem from="1477568089707" duration="9934000" />
+      <workItem from="1477656717574" duration="4887000" />
+      <workItem from="1477915112307" duration="6145000" />
+      <workItem from="1478002808966" duration="1457000" />
+      <workItem from="1478263684441" duration="5734000" />
+      <workItem from="1478517976527" duration="13688000" />
+      <workItem from="1478603675021" duration="8455000" />
+      <workItem from="1478689489847" duration="10562000" />
+      <workItem from="1478780993163" duration="1232000" />
+      <workItem from="1478801865350" duration="1434000" />
+      <workItem from="1478863831497" duration="17724000" />
+      <workItem from="1479302651487" duration="3364000" />
+      <workItem from="1479401366072" duration="1819000" />
+      <workItem from="1479467158992" duration="2727000" />
+      <workItem from="1479745291135" duration="9664000" />
+      <workItem from="1479833880512" duration="2151000" />
+      <workItem from="1479904704413" duration="604000" />
+      <workItem from="1479985789375" duration="11651000" />
+      <workItem from="1480422555561" duration="3065000" />
+      <workItem from="1483613699868" duration="1789000" />
+      <workItem from="1483978519627" duration="613000" />
+      <workItem from="1484567847038" duration="1566000" />
+      <workItem from="1484675720378" duration="569000" />
+      <workItem from="1484746555305" duration="224000" />
+      <workItem from="1484841201998" duration="625000" />
+      <workItem from="1484864935059" duration="1120000" />
+      <workItem from="1484911996671" duration="1247000" />
+      <workItem from="1485257047293" duration="732000" />
+      <workItem from="1486396784207" duration="435000" />
+      <workItem from="1487616479224" duration="128000" />
+      <workItem from="1487617729120" duration="640000" />
+      <workItem from="1487619798867" duration="3858000" />
+      <workItem from="1487679403898" duration="4438000" />
+      <workItem from="1487765302617" duration="7967000" />
+      <workItem from="1487853704593" duration="647000" />
+      <workItem from="1487951589080" duration="3802000" />
+      <workItem from="1488805450643" duration="8127000" />
+      <workItem from="1488904744106" duration="612000" />
+      <workItem from="1490708753012" duration="25000" />
+      <workItem from="1490906311550" duration="70000" />
+      <workItem from="1491586138686" duration="198000" />
+      <workItem from="1491930508727" duration="841000" />
+      <workItem from="1492026382940" duration="1041000" />
+      <workItem from="1492527557824" duration="2507000" />
+      <workItem from="1492602684202" duration="4972000" />
+      <workItem from="1492712397672" duration="416000" />
+      <workItem from="1492717646359" duration="39000" />
+      <workItem from="1492717822787" duration="1333000" />
+      <workItem from="1493038399467" duration="2260000" />
+      <workItem from="1496252827006" duration="8753000" />
+      <workItem from="1496839537362" duration="1036000" />
+      <workItem from="1496840850895" duration="782000" />
+      <workItem from="1496843286952" duration="1484000" />
+      <workItem from="1497014444640" duration="1632000" />
+      <workItem from="1497016638028" duration="12000" />
+      <workItem from="1497016720443" duration="811000" />
+      <workItem from="1497288972426" duration="59000" />
+      <workItem from="1498061831155" duration="5679000" />
+      <workItem from="1498150645138" duration="1878000" />
+      <workItem from="1498223281218" duration="629000" />
+      <workItem from="1498481508101" duration="67000" />
+      <workItem from="1498482367473" duration="5840000" />
+      <workItem from="1498500212889" duration="2203000" />
+      <workItem from="1498571218270" duration="1509000" />
+      <workItem from="1498654627770" duration="3044000" />
+      <workItem from="1498829093364" duration="365000" />
+      <workItem from="1501074799943" duration="720000" />
+      <workItem from="1501076148277" duration="741000" />
+      <workItem from="1501156577401" duration="273000" />
+      <workItem from="1507229130944" duration="2854000" />
+      <workItem from="1507236097995" duration="21000" />
+      <workItem from="1507295965068" duration="11124000" />
+      <workItem from="1507549731722" duration="9833000" />
+      <workItem from="1507640632132" duration="4032000" />
+      <workItem from="1507723217523" duration="9506000" />
+      <workItem from="1507895194941" duration="2446000" />
+      <workItem from="1508240495904" duration="10352000" />
+      <workItem from="1508323927751" duration="10116000" />
+      <workItem from="1508410115325" duration="10756000" />
+      <workItem from="1508501836101" duration="3750000" />
+      <workItem from="1508507041476" duration="491000" />
+      <workItem from="1508511936316" duration="5935000" />
+      <workItem from="1508595155668" duration="18592000" />
+      <workItem from="1508772053988" duration="333000" />
+      <workItem from="1508772418612" duration="4581000" />
+      <workItem from="1508843600445" duration="5383000" />
+      <workItem from="1508944410418" duration="12842000" />
+      <workItem from="1509015785588" duration="18848000" />
+      <workItem from="1509105800959" duration="8560000" />
+      <workItem from="1509450202064" duration="20419000" />
+      <workItem from="1509538359251" duration="4755000" />
+      <workItem from="1509706060198" duration="4952000" />
+      <workItem from="1509724635364" duration="3401000" />
+      <workItem from="1509793282214" duration="5937000" />
+      <workItem from="1509805202813" duration="8251000" />
+      <workItem from="1510057795906" duration="8982000" />
+      <workItem from="1510078431903" duration="1341000" />
+      <workItem from="1510145537978" duration="1267000" />
+      <workItem from="1510243856960" duration="590000" />
+      <workItem from="1510324998818" duration="7399000" />
+      <workItem from="1510576663238" duration="2086000" />
+      <workItem from="1510581391129" duration="5509000" />
+      <workItem from="1510921705414" duration="3522000" />
+      <workItem from="1511178885787" duration="9313000" />
+      <workItem from="1511213854152" duration="1350000" />
+      <workItem from="1511215344257" duration="88000" />
+      <workItem from="1511261524294" duration="619000" />
+      <workItem from="1511271693912" duration="16959000" />
+      <workItem from="1511355118990" duration="6968000" />
+      <workItem from="1511433616245" duration="24252000" />
+      <workItem from="1511480964709" duration="5440000" />
+      <workItem from="1511548552088" duration="1578000" />
+      <workItem from="1511783287398" duration="9430000" />
+      <workItem from="1511869797940" duration="1659000" />
+      <workItem from="1511891462956" duration="1356000" />
+      <workItem from="1511961090303" duration="3064000" />
+      <workItem from="1512046749645" duration="9289000" />
+      <workItem from="1512125959221" duration="26000" />
+      <workItem from="1512126655037" duration="459000" />
+      <workItem from="1512130341096" duration="35000" />
+      <workItem from="1512134574982" duration="8638000" />
+      <workItem from="1512386526092" duration="6280000" />
+      <workItem from="1512478181968" duration="2635000" />
+      <workItem from="1512556032238" duration="2243000" />
+      <workItem from="1512683074977" duration="59000" />
+      <workItem from="1513167980644" duration="1034000" />
+      <workItem from="1517497011252" duration="618000" />
+      <workItem from="1517500414632" duration="552000" />
+      <workItem from="1517849545205" duration="1555000" />
+      <workItem from="1517913471967" duration="6917000" />
+      <workItem from="1518001415555" duration="4270000" />
+      <workItem from="1518090198239" duration="4186000" />
+      <workItem from="1518137907552" duration="7109000" />
+      <workItem from="1518695957231" duration="30823000" />
+      <workItem from="1518805237486" duration="2562000" />
+      <workItem from="1518820588157" duration="1018000" />
+      <workItem from="1518864851312" duration="21786000" />
+      <workItem from="1519129010917" duration="9941000" />
+      <workItem from="1519148476077" duration="20358000" />
+      <workItem from="1519299211774" duration="18571000" />
+      <workItem from="1519405150028" duration="8474000" />
+      <workItem from="1519421892759" duration="363000" />
+      <workItem from="1519477664581" duration="4172000" />
+      <workItem from="1519647994823" duration="10557000" />
+      <workItem from="1519732701348" duration="10898000" />
+      <workItem from="1519823040853" duration="594000" />
+      <workItem from="1519838252014" duration="97000" />
+      <workItem from="1519839796835" duration="428000" />
+      <workItem from="1519845230539" duration="2559000" />
+      <workItem from="1519853485605" duration="53000" />
+      <workItem from="1520251488096" duration="803000" />
+      <workItem from="1520257445644" duration="24468000" />
+      <workItem from="1520446224107" duration="6949000" />
+      <workItem from="1520512760997" duration="166000" />
+      <workItem from="1520536174755" duration="618000" />
+      <workItem from="1520618298839" duration="7319000" />
+      <workItem from="1520857472282" duration="9145000" />
+      <workItem from="1521030603860" duration="6689000" />
+      <workItem from="1521122564863" duration="5255000" />
+      <workItem from="1521203508882" duration="4965000" />
+      <workItem from="1521462560673" duration="7154000" />
+      <workItem from="1522069364957" duration="922000" />
+      <workItem from="1522258893393" duration="1345000" />
+      <workItem from="1522324420305" duration="13323000" />
+      <workItem from="1522700202906" duration="795000" />
+      <workItem from="1522775117856" duration="10914000" />
+      <workItem from="1522786800552" duration="5129000" />
+      <workItem from="1522847616504" duration="12812000" />
+      <workItem from="1522872777592" duration="395000" />
+      <workItem from="1522950812433" duration="1356000" />
+      <workItem from="1523015156793" duration="15508000" />
+      <workItem from="1523275886316" duration="1319000" />
+      <workItem from="1523291665782" duration="2312000" />
+      <workItem from="1523294903067" duration="6876000" />
+      <workItem from="1523364875221" duration="3369000" />
+      <workItem from="1523540835045" duration="2598000" />
+      <workItem from="1523628670521" duration="191000" />
+      <workItem from="1523630324452" duration="353000" />
+      <workItem from="1523635065383" duration="8119000" />
+      <workItem from="1523972596569" duration="760000" />
+      <workItem from="1524069360926" duration="9614000" />
+      <workItem from="1524143442661" duration="11050000" />
+      <workItem from="1524233770767" duration="6788000" />
+      <workItem from="1524488840965" duration="9974000" />
+      <workItem from="1524588442933" duration="9559000" />
+      <workItem from="1524744785700" duration="13795000" />
+      <workItem from="1524830941687" duration="595000" />
+      <workItem from="1524851434915" duration="6030000" />
+      <workItem from="1525090104197" duration="13627000" />
+      <workItem from="1525263406056" duration="22188000" />
+      <workItem from="1525435786010" duration="2255000" />
+      <workItem from="1525462338190" duration="650000" />
+      <workItem from="1525463591107" duration="90000" />
+      <workItem from="1526315345370" duration="2516000" />
+      <workItem from="1526415305714" duration="898000" />
+      <workItem from="1526474733278" duration="7567000" />
+      <workItem from="1526558793933" duration="219000" />
+      <workItem from="1526903542408" duration="3102000" />
+      <workItem from="1526992805147" duration="1607000" />
+      <workItem from="1527181337015" duration="613000" />
+      <workItem from="1527190398873" duration="22000" />
+      <workItem from="1527526257883" duration="19413000" />
+      <workItem from="1527872340703" duration="476000" />
+      <workItem from="1528113116666" duration="18217000" />
+      <workItem from="1528290610426" duration="8719000" />
+      <workItem from="1528375198612" duration="3105000" />
+      <workItem from="1528723477186" duration="6763000" />
+      <workItem from="1528829094052" duration="1697000" />
+      <workItem from="1528908040238" duration="5291000" />
+      <workItem from="1528976990671" duration="258000" />
+      <workItem from="1529322643665" duration="4812000" />
+      <workItem from="1529412022093" duration="2487000" />
+      <workItem from="1529515837851" duration="6825000" />
+      <workItem from="1529537481593" duration="5992000" />
+      <workItem from="1529948749059" duration="1680000" />
+      <workItem from="1530030827907" duration="2816000" />
+      <workItem from="1530275409581" duration="184000" />
+      <workItem from="1530734261099" duration="4534000" />
+      <workItem from="1530816579366" duration="135000" />
+      <workItem from="1531772689944" duration="932000" />
+      <workItem from="1532003515383" duration="1535000" />
+      <workItem from="1532088838008" duration="6918000" />
+      <workItem from="1532112645844" duration="601000" />
+      <workItem from="1532350529092" duration="18413000" />
+      <workItem from="1532521605589" duration="1340000" />
+      <workItem from="1532538308474" duration="3519000" />
+      <workItem from="1532605981635" duration="2956000" />
+      <workItem from="1532628655803" duration="2168000" />
+      <workItem from="1533034965123" duration="9330000" />
+      <workItem from="1533123487858" duration="3621000" />
+      <workItem from="1533144325341" duration="2444000" />
+      <workItem from="1533216950705" duration="1800000" />
+      <workItem from="1534163037659" duration="4097000" />
+      <workItem from="1534272555994" duration="1798000" />
+      <workItem from="1534342846424" duration="14726000" />
+      <workItem from="1534510104265" duration="866000" />
+      <workItem from="1537816994905" duration="743000" />
+      <workItem from="1537819303323" duration="1537000" />
+      <workItem from="1538059394162" duration="736000" />
+      <workItem from="1538074590436" duration="53000" />
+      <workItem from="1538140931161" duration="126000" />
+      <workItem from="1538589502904" duration="1436000" />
+      <workItem from="1538591184569" duration="1233000" />
+      <workItem from="1539183478373" duration="38000" />
+      <workItem from="1539785051966" duration="4121000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1292743000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1358" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22327965" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280507" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280507" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280507" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22327965" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280507" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.properties" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/fontes/protected/views/kpi/_cvm.php</url>
+          <line>23</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/fontes/protected/views/kpi/_anateln3.php</url>
+          <line>619</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/fontes/protected/views/kpi/_anateln3.php</url>
+          <line>714</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/fontes/protected/views/dashboard/fraport/_index.php</url>
+          <line>81</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="69" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/fontes/protected/components/AnatelRedesExcel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="365" column="29" lean-forward="false" selection-start-line="365" selection-start-column="29" selection-end-line="365" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fontes/protected/components/AnatelN3Excel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="742" column="28" lean-forward="false" selection-start-line="742" selection-start-column="28" selection-end-line="742" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fontes/protected/components/FunarteExcelOld1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="653" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8553" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fontes/protected/components/FunarteExcelOld2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="158" column="31" lean-forward="false" selection-start-line="158" selection-start-column="31" selection-end-line="158" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fontes/protected/views/report/funarte.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5">
+          <caret line="77" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fontes/protected/components/AncineExcel_old.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fontes/protected/models/KpiAncine_old.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="59" column="39" lean-forward="false" selection-start-line="59" selection-start-column="31" selection-end-line="59" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fontes/protected/models/KpiFraport.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="53" column="20" lean-forward="false" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fontes/protected/views/report/ancine.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="62" column="36" lean-forward="false" selection-start-line="62" selection-start-column="36" selection-end-line="62" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fontes/protected/models/DashboardAncine.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="74" column="75" lean-forward="true" selection-start-line="74" selection-start-column="75" selection-end-line="74" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fontes/protected/components/IncraExcelChamados.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fontes/protected/models/KpiIncra.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="96" column="20" lean-forward="false" selection-start-line="96" selection-start-column="20" selection-end-line="96" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fontes/protected/components/IncraExcel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="924" column="28" lean-forward="true" selection-start-line="924" selection-start-column="28" selection-end-line="924" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fontes/protected/components/AnatelBibliotecaExcel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="113" column="20" lean-forward="false" selection-start-line="113" selection-start-column="20" selection-end-line="113" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fontes/protected/components/FraportExcel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="4" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fontes/protected/controllers/DashboardController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2457">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fontes/protected/views/layouts/header-metronic.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8372">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fontes/protected/components/AnatelInfraestruturaExcel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="125" column="65" lean-forward="false" selection-start-line="125" selection-start-column="49" selection-end-line="125" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fontes/protected/views/report/anatelInfra.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="62" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fontes/protected/models/sistema/Action.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1270">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fontes/protected/models/sistema/Role.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1020">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fontes/protected/models/sistema/RoleAction.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1185">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fontes/protected/models/sistema/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-357">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fontes/protected/models/sistema/UserRole.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deployAnatelServerv0.1.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fontes/protected/views/kpi/funarte.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="60" column="28" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="62" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fontes/protected/views/kpi/ancine.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="42" column="57" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="62" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fontes/protected/views/kpi/_funarte.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="182" column="54" lean-forward="false" selection-start-line="182" selection-start-column="39" selection-end-line="182" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fontes/protected/controllers/KpiController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="36" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fontes/protected/views/kpi/_ancine.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fontes/protected/components/AnatelImpressoras2Excel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fontes/protected/components/AnatelImpressorasExcel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="160" column="0" lean-forward="true" selection-start-line="160" selection-start-column="0" selection-end-line="160" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fontes/protected/components/AncineExcel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="985" column="70" lean-forward="true" selection-start-line="985" selection-start-column="51" selection-end-line="985" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fontes/protected/components/FksUtils.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="391" column="40" lean-forward="false" selection-start-line="391" selection-start-column="27" selection-end-line="391" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fontes/protected/views/report/anatelFiscalizacao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fontes/protected/components/AnatelFiscalizacaoExcel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="152" column="150" lean-forward="false" selection-start-line="152" selection-start-column="144" selection-end-line="152" selection-end-column="150" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fontes/protected/models/DashboardAnatel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="148" column="41" lean-forward="true" selection-start-line="99" selection-start-column="15" selection-end-line="148" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fontes/protected/views/dashboard/anatel/_index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fontes/protected/components/FunarteExcel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2720">
+          <caret line="8488" column="37" lean-forward="false" selection-start-line="8488" selection-start-column="23" selection-end-line="8488" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fontes/protected/models/KpiFunarte.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11373">
+          <caret line="669" column="37" lean-forward="true" selection-start-line="669" selection-start-column="37" selection-end-line="676" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fontes/protected/models/KpiAncine.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="120" column="5" lean-forward="false" selection-start-line="120" selection-start-column="5" selection-end-line="120" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fontes/protected/models/KpiAnatel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="124" column="20" lean-forward="false" selection-start-line="124" selection-start-column="20" selection-end-line="124" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fontes/protected/components/AnatelExcel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1428" column="28" lean-forward="false" selection-start-line="1428" selection-start-column="28" selection-end-line="1428" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fontes/protected/components/AnatelSustentacaoExcel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="270" column="28" lean-forward="false" selection-start-line="270" selection-start-column="28" selection-end-line="270" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fontes/protected/views/site/index-flatlab.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1054">
+          <caret line="89" column="89" lean-forward="false" selection-start-line="89" selection-start-column="89" selection-end-line="89" selection-end-column="89" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fontes/protected/models/KpiTerracap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <marker date="1539787022288" expanded="true" signature="19601:20289" ph="SELECT th.id... ticket_history" />
+            <marker date="1539787022288" expanded="true" signature="19932:20237" ph="SELECT MIN(t... ticket_history" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fontes/protected/views/layouts/header-flatlab.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="485">
+          <caret line="340" column="93" lean-forward="false" selection-start-line="340" selection-start-column="93" selection-end-line="340" selection-end-column="93" />
+          <folding>
+            <marker date="1539786399151" expanded="true" signature="12514:12851" ph="..." />
+            <marker date="1539786399151" expanded="true" signature="12647:12846" ph="..." />
+            <marker date="1539786399151" expanded="true" signature="15029:15246" ph="..." />
+            <marker date="1539786399151" expanded="true" signature="16148:17277" ph="..." />
+            <marker date="1539786399151" expanded="true" signature="16275:17272" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fontes/protected/config/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3808">
+          <caret line="229" column="43" lean-forward="false" selection-start-line="229" selection-start-column="43" selection-end-line="229" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fontes/protected/components/UserIdentity.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="45" column="56" lean-forward="false" selection-start-line="45" selection-start-column="55" selection-end-line="45" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fontes/protected/views/report/terracap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="66" column="39" lean-forward="true" selection-start-line="66" selection-start-column="39" selection-end-line="66" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fontes/protected/controllers/ReportController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5882">
+          <caret line="346" column="67" lean-forward="true" selection-start-line="346" selection-start-column="67" selection-end-line="346" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
