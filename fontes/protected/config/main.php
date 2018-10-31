@@ -86,7 +86,7 @@ if (DATABASE == 1) {
     $passwordFUNARTE = 'root';
     // TERRACAP
     $hostTERRACAP = 'localhost';
-    $dbnameTERRACAP = 'otrs';
+    $dbnameTERRACAP = 'db_otrs';
     $usernameTERRACAP = 'root';
     $passwordTERRACAP = 'root';
 }
